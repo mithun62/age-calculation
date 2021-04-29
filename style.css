@@ -1,0 +1,54 @@
+body{
+  margin:0px;
+  padding:0px;
+  background:grey;
+}
+
+.data{
+  background:grey;
+  border-radius:7px;
+  padding:10px 8px;
+  margin:80px 7px;
+  width:90%;
+  box-shadow:2px 2px white,-2px -2px;
+}
+
+.data2{
+  text-align:center;
+}
+
+input[type="number"]{
+  padding:8px;
+  margin:5px;
+  outline:none;
+  border-radius:10px;
+  border:1px solid red;
+}
+
+.n{
+  font-weight:bold;
+}
+
+button{
+  background:#990018;
+  color:white;
+  font-size:20px;
+  width:60%;
+  padding:6px;
+  outline:none;
+  border-radius:16px;
+  font-weight:bold;
+  margin:5px 70px;
+}
+
+.result{
+  background:rgb(161,11,11);
+  border-radius:8px;
+  padding:6px 20px;
+  width:80%;
+  margin:10px 10px;
+  font-weight:bold;
+  color:white;
+  text-align:center;
+  
+}
